@@ -1,0 +1,15 @@
+{
+  "users": [
+    {"id": 1, "name": "Alice", "credits": 0},
+    {"id": 2, "name": "Bob", "credits": 0},
+    {"id": 3, "name": "Chloe", "credits": 0},
+    {"id": 4, "name": "Dan", "credits": 0},
+    {"id": 5, "name": "Eva", "credits": 0}
+  ],
+  "activities": [],
+  "rewards": [
+    {"id": 1, "name": "10% Grocery Discount", "cost": 5},
+    {"id": 2, "name": "Yoga Session", "cost": 3},
+    {"id": 3, "name": "Community T-shirt", "cost": 2}
+  ]
+}
